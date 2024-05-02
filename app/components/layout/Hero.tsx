@@ -16,8 +16,8 @@ const Hero = () => {
                     a simple yet delicious joy in line.
                 </p>
                 <div className={"flex gap-4"}>
-                    <CustomButton title={"Order Now"} rightIcon={<RightArrow />} containerStyle={"px-3 text-sm"} textStyles={"uppercase"} />
-                    <CustomButton title={"Learn More"} rightIcon={<RightArrow />} containerStyle={"px-3 bg-transparent"} textStyles={"text-gray-600 text-semibold"} />
+                    <CustomButton title={"Order Now"} rightIcon={<RightArrow containerStyle={"w-10 h-10"} />} containerStyle={"px-3 text-sm"} textStyles={"uppercase"} />
+                    <CustomButton title={"Learn More"} rightIcon={<RightArrow containerStyle={"w-10 h-10"} />} containerStyle={"px-3 bg-transparent"} textStyles={"text-gray-600 text-semibold"} />
                 </div>
             </div>
             <div className={"relative"}>

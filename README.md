@@ -1,7 +1,7 @@
 # My Next.js Application w/React, Tailwind, Typescript build.
 
 - using youtube video: https://www.youtube.com/watch?v=nGoSP3MBV2E
-
+- https://heroicons.com/
 
 
 
