@@ -1,3 +1,10 @@
+# My Next.js Application w/React, Tailwind, Typescript build.
+
+- using youtube video: https://www.youtube.com/watch?v=nGoSP3MBV2E
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
